@@ -1,0 +1,32 @@
+{
+  "AdvertiserData": [
+    {
+      "userid": "5adb688e-18bd-49fe-b088-88c7e5bba136",
+      "Title": "rocket123",
+      "Category": "0",
+      "Description": "Leading Beauty Salon in Maharagama At Looks Salon we provide full salon services in an elegant yet unpretentious atmosphere created wit ",
+      "No": "391/25",
+      "Address Line 1": "railway housing state",
+      "Address Line 2": "colombo 9",
+      "Province": "western",
+      "PostalCode": "7788",
+      "telephone1": "0775608621",
+      "telephone2": "0775608421",
+      "Email": "chami@12345"
+    },
+    {
+      "userid": "ae1b84f9-3378-4e56-8e7e-b8e8cfd3fdc4",
+      "Title": "rocket123",
+      "Category": "0",
+      "Description": "Leading Beauty Salon in Maharagama At Looks Salon we provide full salon services in an elegant, yet unpretentious atmosphere created wit ",
+      "No": "391/25",
+      "Address Line 1": "railway housing state",
+      "Address Line 2": "colombo 9",
+      "Province": "western",
+      "PostalCode": "7788",
+      "telephone1": "0775608621",
+      "telephone2": "0775608421",
+      "Email": "chami@12345"
+    }
+  ]
+}
